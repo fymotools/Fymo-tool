@@ -1,7 +1,7 @@
 # Fymo Tools
 
-Fymo Tools ek all-in-one website hai jismein 30 se zyada free online tools available hain.  
-Yeh tools multiple categories mein divide kiye gaye hain:
+Fimo Tools is an all-in-one website with over 30 free online tools available.
+These tools are divided into multiple categories:
 
 - Health & Wellness Tools  
 - Writing & Blog Tools  
@@ -10,6 +10,6 @@ Yeh tools multiple categories mein divide kiye gaye hain:
 - SEO Tools  
 - Daily Useful Tools
 
-Website fast, mobile-friendly aur bilkul free hai.
+The website is fast, mobile-friendly, and completely free.
 
 🔗 Visit Now: https://fymotools.github.io/Fymo-tool/
